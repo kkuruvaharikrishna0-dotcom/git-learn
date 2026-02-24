@@ -2,3 +2,5 @@
 create user table and insert user into table!!
 
 add the admin details first .
+
+only admin can add and remove users
